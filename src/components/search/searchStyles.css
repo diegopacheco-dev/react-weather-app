@@ -1,0 +1,20 @@
+.searchComponent {
+    max-width: 20em;
+    padding: 0.5em;
+}
+.searchComponent h2 {
+    font-weight: 500;
+}
+.searchComponent form {
+    padding: 1em 0;
+}
+.input-container input {
+    width: 100%;
+    height: 3em;
+    padding-left: 1em;
+    color: gray;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 5px 0 rgba(177, 177, 177, 0.637); 
+}
